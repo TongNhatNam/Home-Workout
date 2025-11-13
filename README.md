@@ -1,4 +1,4 @@
-# Home Workout App
+# Home Workout Website
 
 Ứng dụng tập luyện tại nhà với React frontend và Node.js backend.
 
